@@ -1,0 +1,9 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express-prom-bundle": "^6.4.1"
+  }
+}
